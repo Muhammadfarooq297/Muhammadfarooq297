@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **m.farooq.min@gmail.com**
 
-- ⚡ Fun fact **I think I a quick learner**
+- ⚡ Fun fact **I think I a self learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
