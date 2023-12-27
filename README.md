@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Jetpack, Architecture, Compose ,KMP**
 
-- 💬 Ask me about **Android, Ai**
+- 💬 Ask me about **Android, AI**
 
 - 📫 How to reach me **m.farooq.min@gmail.com**
 
