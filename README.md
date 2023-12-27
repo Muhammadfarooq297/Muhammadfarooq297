@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfarooq297&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfarooq297" /> </p>
 
 
-- 🔭 I’m currently working on **Android Projects**
+- 🔭 I’m currently working on **Android Apps**
 
 - 🌱 I’m currently learning **Jetpack, Architecture, Compose ,KMP**
 
