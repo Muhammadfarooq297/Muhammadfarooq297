@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadfarooq297&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadfarooq297" /> </p>
 
-- 🔭 I’m currently working on **EDA / Data Wrangling**
+- 🌱 I’m currently learning **Generative AI**
 
-- 🌱 I’m currently learning **Data Science**
-
-- 💬 Ask me about **DS, ML, DL, CV**
+- 💬 Ask me about **DS, ML, MLOps, DL, CV**
 
 - 📫 How to reach me **m.farooq.min@gmail.com**
 
