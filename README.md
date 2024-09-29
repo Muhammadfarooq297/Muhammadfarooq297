@@ -32,36 +32,20 @@ I am passionate about leveraging AI and ML technologies to solve real-world prob
   <a href="mailto:m.farooq.min@gmail.com" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email" height="30" width="40" />
   </a>
-  **Email**: m.farooq.min@gmail.com
-</p>
-
-<p align="left">
   <a href="https://twitter.com/mf5074111" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  **Twitter**: [@mf5074111](https://twitter.com/mf5074111)
-</p>
-
-<p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-farooq-minhas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  **LinkedIn**: [Muhammad Farooq](https://linkedin.com/in/www.linkedin.com/in/muhammad-farooq-minhas)
-</p>
-
-<p align="left">
   <a href="https://kaggle.com/mfarooqminhas1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  **Kaggle**: [mfarooqminhas1](https://kaggle.com/mfarooqminhas1)
-</p>
-
-<p align="left">
   <a href="https://instagram.com/faruq.minhas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  **Instagram**: [faruq.minhas](https://instagram.com/faruq.minhas)
 </p>
+
 
 
 ---
